@@ -148,6 +148,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         Log.d(TAG, "Path Points: " + pathPoints.toString());
     }
 
+
     @Override
     protected void onDestroy() {
         super.onDestroy();
